@@ -1,0 +1,24 @@
+F:\Gujjar Project\Project Khuram\Project Khuram\bin\Debug\Project Khuram.exe.config
+F:\Gujjar Project\Project Khuram\Project Khuram\bin\Debug\Project Khuram.exe
+F:\Gujjar Project\Project Khuram\Project Khuram\bin\Debug\Project Khuram.pdb
+F:\Gujjar Project\Project Khuram\Project Khuram\obj\Debug\Project_Khuram.Properties.Resources.resources
+F:\Gujjar Project\Project Khuram\Project Khuram\obj\Debug\Project Khuram.csproj.GenerateResource.Cache
+F:\Gujjar Project\Project Khuram\Project Khuram\obj\Debug\Project Khuram.exe
+F:\Gujjar Project\Project Khuram\Project Khuram\obj\Debug\Project Khuram.pdb
+F:\Gujjar Project\Project Khuram\Project Khuram\obj\Debug\Project Khuram.csprojResolveAssemblyReference.cache
+F:\Gujjar Project\Project Khuram\Project Khuram\obj\Debug\Project_Khuram.Bulling_Module.resources
+F:\Gujjar Project\Project Khuram\Project Khuram\obj\Debug\Project_Khuram.Sign_in.resources
+F:\Gujjar Project\Project Khuram\Project Khuram\obj\Debug\Project_Khuram.Choose.resources
+F:\Gujjar Project\Project Khuram\Project Khuram\obj\Debug\Project_Khuram.SignUp.resources
+F:\Gujjar Project\Project Khuram\Project Khuram\obj\Debug\Project_Khuram.Bill_Generation.resources
+F:\Gujjar Project\Project Khuram\Project Khuram\bin\Debug\itextsharp.dll
+F:\Gujjar Project\Project Khuram\Project Khuram\bin\Debug\itextsharp.pdfa.dll
+F:\Gujjar Project\Project Khuram\Project Khuram\bin\Debug\itextsharp.xtra.dll
+F:\Gujjar Project\Project Khuram\Project Khuram\bin\Debug\itextsharp.xml
+F:\Gujjar Project\Project Khuram\Project Khuram\obj\Debug\Project_Khuram.Refundform.resources
+F:\Gujjar Project\Project Khuram\Project Khuram\obj\Debug\Project Khuram.csproj.ResolveComReference.cache
+F:\Gujjar Project\Project Khuram\Project Khuram\obj\Debug\Project_Khuram.splash_screen.resources
+F:\Gujjar Project\Project Khuram\Project Khuram\obj\Debug\Project_Khuram.Crm_form.resources
+F:\Gujjar Project\Project Khuram\Project Khuram\obj\Debug\Project_Khuram.Popupform.resources
+F:\Gujjar Project\Project Khuram\Project Khuram\obj\Debug\Project_Khuram.Choose_user.resources
+F:\Gujjar Project\Project Khuram\Project Khuram\obj\Debug\Project_Khuram.ConnectionDB.resources
